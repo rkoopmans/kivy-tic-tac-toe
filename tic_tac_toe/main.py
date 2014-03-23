@@ -2,6 +2,9 @@ from kivy.app import App
 from board import Board
 
 
+__version__ = '1.0'
+
+
 class TicTacToe(App):
 
     def build(self):
