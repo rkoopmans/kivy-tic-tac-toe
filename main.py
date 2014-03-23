@@ -6,7 +6,7 @@ class TicTacToe(App):
 
     def build(self):
 
-        self.board = Board()
+        self.board = Board(cols=3)
 
         return self.board
 

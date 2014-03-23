@@ -11,4 +11,4 @@ Requirements:
 
 Run with:
 
-`python main.py`
+$`python main.py`
